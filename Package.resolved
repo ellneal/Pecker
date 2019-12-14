@@ -5,7 +5,7 @@
         "package": "IndexStoreDB",
         "repositoryURL": "https://github.com/apple/indexstore-db.git",
         "state": {
-          "branch": "swift-5.1-branch",
+          "branch": null,
           "revision": "5960ba789ea7983516c7d419ad73ae264fced8ed",
           "version": null
         }
@@ -23,7 +23,7 @@
         "package": "SwiftPM",
         "repositoryURL": "https://github.com/apple/swift-package-manager.git",
         "state": {
-          "branch": "master",
+          "branch": null,
           "revision": "528da5147ca82164acbd4cecdc8e69322d96d3e2",
           "version": null
         }
